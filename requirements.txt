@@ -1,1 +1,2 @@
-text     streamlit     yfinance
+streamlit     
+yfinance
